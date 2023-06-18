@@ -25,12 +25,12 @@ export default function DefinirSenha({ navigation }) {
           placeholder="*******"
         />
         <View style={styles.textBox}>
-        <Text style={styles.textDefinir}>Repetir senha:</Text>
-        <TextInput
-          style={styles.textInputt}
-          secureTextEntry
-          placeholder="*******"
-        />
+          <Text style={styles.textDefinir}>Repetir senha:</Text>
+          <TextInput
+            style={styles.textInputt}
+            secureTextEntry
+            placeholder="*******"
+          />
         </View>
       </View>
       <TouchableOpacity

@@ -69,10 +69,10 @@ export const styles = StyleSheet.create({
   },
   textCriar: {
     fontSize: 15,
-    padding: 2,
-    paddingLeft: 10,
+    padding: 30,
+    paddingLeft: 30,
     textAlign: "center",
-    color: "red",
+    color: "black",
     textDecorationLine: "underline",
   },
 });

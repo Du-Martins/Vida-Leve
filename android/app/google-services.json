@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729742197658",
+    "project_id": "vida-leve-381221",
+    "storage_bucket": "vida-leve-381221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729742197658:android:55b69a59ecd056f6bdf023",
+        "android_client_info": {
+          "package_name": "com.vidaleve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729742197658-4pann01m8dgtkpj4t8hemdnpt3qj1b0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsFhxfkowBxBc1G8kNNNhfFHQab_KUvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729742197658-4pann01m8dgtkpj4t8hemdnpt3qj1b0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
